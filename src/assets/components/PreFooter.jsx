@@ -5,7 +5,7 @@ export default function PreFooter() {
   return (
     <div>
       <div className='flex items-center md:flex-row flex-col justify-between w-8/12 mx-auto mb-20 mt-40'>
-        <div className='relative bg-blue-500 w-96 h-96  rounded-full flex justify-center items-center w-6/12'>
+        <div className='relative bg-blue-500 md:w-96 md:h-96 w-80 h-80  rounded-full flex justify-center items-center w-6/12'>
           <div>
             <img src="https://ezitech.org/wp-content/uploads/2022/11/phone-copy.webp" className='absolute w-80   bottom-0 left-0 z-10' alt="" />
           </div>
