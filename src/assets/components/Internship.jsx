@@ -72,7 +72,7 @@ export default function Internship() {
             
             {internshipData.map(({id, title, img, employmentType, location, jobType1, jobType2})=>(        
 
-            <div className="internship rounded-2xl md:w-3/12 w-10/12 shadow-xl hover:scale-90 duration-1000" >
+            <div className="internship rounded-2xl md:w-3/12 w-11/12 shadow-xl hover:scale-90 duration-1000" >
                 <div className='card-bg-img h-26 flex justify-between items-center p-2'>
                     <div className='flex flex-col'>
                         <h1 className='md:text-xl text-xl text-wrap font-extrabold text-white p-1'>{title}</h1>
