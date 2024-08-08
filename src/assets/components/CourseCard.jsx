@@ -104,7 +104,7 @@ export default function CourseCard() {
         {/* Social Courses list */}
 
 
-        <div className='border md:w-6/12 md:h-6/12 w-11/12 h-full  relative mt-20 md:mt-0'>
+        <div className='border md:w-6/12 md:h-6/12 w-full h-full  relative mt-20 md:mt-0'>
             <div className='bg-blue-700 text-white'>
                 <h1 className='text-center p-3 text-xl font-bold'>Web Development Course with Industrial Projects</h1>
                 <h4 className='text-center p-3'>{SocialCourse.length} Courses</h4>
