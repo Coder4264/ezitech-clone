@@ -10,7 +10,7 @@ export default function Footer() {
                 <h1 className='text-lg font-bold mb-7 '>ABOUT</h1>
                 <p className='text-sm text-justify'>Ezitech Institute provides a platform for newcomers to launch their IT and freelancing careers. Our emphasis on practical information technology courses that are career and work oriented makes us the top computer institute in Rawalpindi, Islamabad, Pakistan.</p>
             </div>
-            <div className="popular-courses-container w-full md:w-4/12 mt-20">
+            <div className="popular-courses-container w-10/12 md:w-4/12 mt-20">
                 <h3 className='text-lg font-bold mb-7'>POPULAR COURSES</h3>
                 {/* item-1 */}
                 <div className='flex items-center justify-evenly gap-5 mb-3 hover:text-blue-600'>
