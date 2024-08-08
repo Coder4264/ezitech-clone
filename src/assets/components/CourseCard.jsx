@@ -79,7 +79,7 @@ export default function CourseCard() {
   return (
     // General course list
 
-    <div className='md:w-10/12 w-full mx-auto flex flex-col md:flex-row gap-5 mb-52'>
+    <div className='md:w-10/12 w-11/12 mx-auto flex flex-col md:flex-row gap-5 mb-52'>
         <div className='border w-full md:w-6/12 relative'>
             <div className='bg-blue-700 text-white'>
                 <h1 className='text-center p-3 text-xl font-bold'>Web Development Course with Industrial Projects</h1>
@@ -104,7 +104,7 @@ export default function CourseCard() {
         {/* Social Courses list */}
 
 
-        <div className='border md:w-6/12 md:h-6/12 w-full h-full  relative mt-20 md:mt-0'>
+        <div className='border md:w-6/12 md:h-6/12 w-11/12 h-full  relative mt-20 md:mt-0'>
             <div className='bg-blue-700 text-white'>
                 <h1 className='text-center p-3 text-xl font-bold'>Web Development Course with Industrial Projects</h1>
                 <h4 className='text-center p-3'>{SocialCourse.length} Courses</h4>
