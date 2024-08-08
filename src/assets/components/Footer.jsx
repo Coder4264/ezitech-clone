@@ -16,7 +16,7 @@ export default function Footer() {
                 <div className='flex items-center justify-evenly gap-5 mb-3 hover:text-blue-600'>
                     <img src="https://ezitech.org/wp-content/uploads/2023/03/shutterstock_1936430215-_FILEminimizer_-100x100.webp" className='w-16' alt="" />
                     <div className='flex flex-col'>
-                    <a href='' className='text-sm text-ellipsis overflow-hidden whitespace-nowrap max-w-56 font-bold'>Online Arbitrage Mastermind 2.0 [Rawalpindi]</a>
+                    <a href='' className='text-sm text-ellipsis overflow-hidden whitespace-nowrap md:max-w-56 max-w-52 font-bold'>Online Arbitrage Mastermind 2.0 [Rawalpindi]</a>
 
                         <a href='' className='text-xs text-slate-400 '>By Some Author</a>
                     </div>
@@ -27,7 +27,7 @@ export default function Footer() {
                 <div className='flex items-center justify-evenly gap-5 hover:text-blue-600'>
                     <img src="https://ezitech.org/wp-content/uploads/2022/09/node_green_tutorial-_FILEminimizer_-100x100.webp" className='w-16' alt="" />
                     <div className='flex flex-col'>
-                        <a href='' className='text-sm text-ellipsis overflow-hidden whitespace-nowrap max-w-56 font-bold'>The Complete Bootcamp 2024: Node.js</a>
+                        <a href='' className='text-sm text-ellipsis overflow-hidden whitespace-nowrap md:max-w-56 max-w-52 font-bold'>The Complete Bootcamp 2024: Node.js</a>
                         <a href='' className='text-xs text-slate-400'>By Company</a>
                     </div>
                 </div>   
