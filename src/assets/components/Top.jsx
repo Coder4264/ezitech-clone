@@ -5,12 +5,12 @@ export default function Top() {
     <div className='bg-blue-500 md:flex hidden justify-center items-center gap-10 text-sm p-2'>
         <div className='flex items-center gap-2'>
             <img src="https://cdn-icons-png.flaticon.com/128/16703/16703465.png" className='w-4 cursor-pointer invert' alt="" />
-            <p className='text-white font-semibold '> +92 3455555396</p>
+            <p className='text-white font-semibold '> +92 3XXXXXXXX</p>
         </div>
         
         <div className='flex items-center gap-2'>
             <img src="https://cdn-icons-png.flaticon.com/128/484/484167.png" className='w-4 cursor-pointer invert' alt="" />
-            <p className='text-white font-semibold'>  Westridge 1, Office #304-B Peshawar Road, Rawalpindi, Pakistan</p>
+            <p className='text-white font-semibold'>  Somewhere, Office #000-0 XXXXXXXX XXXX, XXXXXXXXXX, Pakistan</p>
         </div>
 
         <div className='flex items-center gap-2'>
