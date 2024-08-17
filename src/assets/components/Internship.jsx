@@ -9,7 +9,7 @@ export default function Internship() {
             "title" : "HTML/CSS JAVASCRIPT",
             "img" : "https://ezitech.org/wp-content/uploads/2024/02/web-design.png",
             "employmentType" : "Hybrid",
-            "location" : "Rawalpindi",
+            "location" : "Somewhere",
             "jobType1" : "Full Time",
             "jobType2" : "Part Time"
         },
@@ -18,7 +18,7 @@ export default function Internship() {
             "title" : "GRAPHIC DESIGNING",
             "img" : "https://ezitech.org/wp-content/uploads/2024/02/development.png",
             "employmentType" : "Hybrid",
-            "location" : "Rawalpindi",
+            "location" : "Somewhere",
             "jobType1" : "Full Time",
             "jobType2" : "Part Time"
         },
@@ -27,7 +27,7 @@ export default function Internship() {
             "title" : "DIGITAL MARKETING",
             "img" : "https://ezitech.org/wp-content/uploads/2024/02/digital-marketing.png",
             "employmentType" : "Hybrid",
-            "location" : "Rawalpindi",
+            "location" : "Somewhere",
             "jobType1" : "Full Time",
             "jobType2" : "Part Time"
         },
@@ -36,7 +36,7 @@ export default function Internship() {
             "title" : "FLUTTER DEVELOPMENT",
             "img" : "https://ezitech.org/wp-content/uploads/2024/02/app-development.png",
             "employmentType" : "Hybrid",
-            "location" : "Rawalpindi",
+            "location" : "Somewhere",
             "jobType1" : "Full Time",
             "jobType2" : "Part Time"
         },
@@ -45,7 +45,7 @@ export default function Internship() {
             "title" : "MACHINE LEARNING",
             "img" : "https://ezitech.org/wp-content/uploads/2024/02/web-services.png",
             "employmentType" : "Hybrid",
-            "location" : "Rawalpindi",
+            "location" : "Somewhere",
             "jobType1" : "Full Time",
             "jobType2" : "Part Time"
         },
@@ -54,7 +54,7 @@ export default function Internship() {
             "title" : "MERN Development",
             "img" : "https://ezitech.org/wp-content/uploads/2024/02/clean-code.png",
             "employmentType" : "Hybrid",
-            "location" : "Rawalpindi",
+            "location" : "Somewhere",
             "jobType1" : "Full Time",
             "jobType2" : "Part Time"
         },
