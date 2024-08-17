@@ -45,15 +45,15 @@ export default function Footer() {
                 <h3 className='text-lg font-bold mb-7'>CONTACT</h3>
                 <div className='flex gap-2'>
                     <img src="https://cdn-icons-png.flaticon.com/128/149/149060.png" className='w-6 h-6' alt="" />
-                    <h3 className='text-sm'>Office #304-B Amna Plaza, near Radio Pakistan, Rawalpindi, Punjab 46000</h3>
+                    <h3 className='text-sm'>Office #000-0 XXXX XXXXX, XXXX XXXXX XXXXXXXX, XXXXXXXXXX, XXXXXX 00000</h3>
                 </div>
                 <div className='flex gap-2'>
                     <img src="https://cdn-icons-png.flaticon.com/128/10797/10797331.png" className='w-6 h-6' alt="" />
-                    <h3>+923455555396</h3>
+                    <h3>+923XXXXXXXXX</h3>
                 </div>
                 <div className='flex gap-2 hover:text-blue-600'>
                     <img src="https://cdn-icons-png.flaticon.com/128/15889/15889542.png" className='w-6 h-6' alt="" />
-                    <h3>info@ezitech.org</h3>
+                    <h3>info@someone.org</h3>
                 </div>
                 
             </div>
@@ -62,7 +62,7 @@ export default function Footer() {
         </div>
 
           <div className="footer">
-              <h3 className='text-sm text-center p-2'>Copyright © {updatedYear} Ezitech Institute | Design & Develop by <a href="" className='underline decoration-solid hover:text-blue-600'>Eziline Software House</a></h3>
+              <h3 className='text-sm text-center p-2'>Copyright © {updatedYear} Rehan Tufail | Design & Develop by <a href="" className='underline decoration-solid hover:text-blue-600'>Rehan Tufail</a></h3>
               <div>
                   <div className='flex items-center gap-5 justify-end pb-10 md:pr-40'>
                       <img src="https://cdn-icons-png.flaticon.com/128/2175/2175193.png" className='w-4 cursor-pointer invert' alt="" />
