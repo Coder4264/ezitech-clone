@@ -1,7 +1,4 @@
 import React from 'react'
-import ss1 from './ss1.png';
-import ss2 from './ss2.png';
-import ss3 from './ss3.png';
 
 export default function Cards() {
 
@@ -71,9 +68,9 @@ export default function Cards() {
     <div className='mt-24 mb-10'>
       <h1 className='text-center text-5xl font-semibold '>How it works?</h1>
       <div className='flex flex-col md:flex-row justify-between items-center mx-auto w-8/12 mb-24'>
-        <img className='w-full mb-20 md:mb-0 md:w-3/12' src={ss1} alt="" />
-        <img className='w-full mb-20 md:mb-0 md:w-3/12' src={ss2} alt="" />
-        <img className='w-full mb-20 md:mb-0 md:w-3/12' src={ss3} alt="" />
+        <img className='w-full mb-20 md:mb-0 md:w-3/12' src= "./ss1.png" alt="" />
+        <img className='w-full mb-20 md:mb-0 md:w-3/12' src= "./ss2.png" alt="" />
+        <img className='w-full mb-20 md:mb-0 md:w-3/12' src= "./ss3.png" alt="" />
       </div>
 
 
