@@ -10,7 +10,7 @@ export default function Top() {
         
         <div className='flex items-center gap-2'>
             <img src="https://cdn-icons-png.flaticon.com/128/484/484167.png" className='w-4 cursor-pointer invert' alt="" />
-            <p className='text-white font-semibold'>  Somewhere, Office #000-0 XXXXXXXX XXXX, XXXXXXXXXX, Pakistan</p>
+            <p className='text-white font-semibold'>  Somewhere, Office #000-0 Rehan Tufail, XXXXXXXXXX, Pakistan</p>
         </div>
 
         <div className='flex items-center gap-2'>
